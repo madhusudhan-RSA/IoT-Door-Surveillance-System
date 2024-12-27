@@ -2,12 +2,12 @@
 #include <ESP8266HTTPClient.h>
 
 // Wi-Fi credentials
-const char* ssid = "RSA";
-const char* password = "RSA";
+const char* ssid = "SSID";
+const char* password = "PASWORD";
 
 // ThingSpeak API details
-const char* server = "http://api.thingspeak.com";
-const String apiKey = "4RBH8Q80QAI7EXOD";
+const char* server = "SERVER";
+const String apiKey = "API KEY";
 
 // Pin configuration
 const int irSensorPin = 5; // IR sensor connected to D1 (GPIO 5)
