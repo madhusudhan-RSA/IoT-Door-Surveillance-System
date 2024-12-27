@@ -5,7 +5,7 @@ This project demonstrates how to use an ESP8266 microcontroller to interface wit
 ## Features
 - Connects the ESP8266 to a Wi-Fi network.
 - Reads the state of an IR sensor to detect obstacles.
-- Activates a buzzer when an obstacle is detected.
+- Activates a buzzer when an obstacle is not detected.
 - Sends IR sensor data to the ThingSpeak platform at regular intervals.
 
 ## Components Used
