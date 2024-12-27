@@ -3,7 +3,7 @@
 
 // Wi-Fi credentials
 const char* ssid = "SSID";
-const char* password = "PASWORD";
+const char* password = "PASSWORD";
 
 // ThingSpeak API details
 const char* server = "SERVER";
